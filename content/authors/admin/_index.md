@@ -24,8 +24,8 @@ organizations:
 bio: under construction.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Cognitive Neuroscience
+- Cognitive Psychology
 
 education:
   courses:
