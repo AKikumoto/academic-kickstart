@@ -14,6 +14,9 @@ role: Postdoctoral research associate
 
 # Organizations/Affiliations
 organizations:
+- name: Cognitive, Linguistic, & Psychological Science
+  url: "https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home"
+
 - name: Brown University
   url: "https://www.brown.edu/"
 
