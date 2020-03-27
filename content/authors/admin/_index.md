@@ -21,7 +21,7 @@ organizations:
   url: "https://www.brown.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: under construction.
+# bio: under construction.
 
 interests:
 - Cognitive Neuroscience
