@@ -9,10 +9,14 @@ featured: false
 publication: "*Scientific Report*"
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/s41598-019-45333-6"
-url_preprint = "https://www.biorxiv.org/content/10.1101/219741v3"
-url_code = ""
-url_dataset = ""
+# url_pdf = "https://www.nature.com/articles/s41598-019-45333-6"
+# url_preprint = "https://www.biorxiv.org/content/10.1101/219741v3"
+# url_code = ""
+# url_dataset = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "PDF", url = "https://www.nature.com/articles/s41598-019-45333-6"}]
 
 tags: [""]
 ---
