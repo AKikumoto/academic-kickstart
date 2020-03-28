@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "atsushi_kikumoto@brown.edu".
+  link: atsushi_kikumoto[at]brown.edu  # For a direct email link, use "atsushi_kikumoto@brown.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KikumotoAtsushi
