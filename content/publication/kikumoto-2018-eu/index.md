@@ -8,6 +8,13 @@ abstract: "Despite strong theoretical reasons for assuming that abstract represe
 featured: false
 publication: "*Elife*"
 tags: [""]
+links:
+  - icon_pack: fab
+    name: PDF
+    url: 'https://doi.org/10.7554/eLife.38550'
+  - icon_pack: fab
+    name: PREPRINT
+    url: 'https://www.biorxiv.org/content/10.1101/344135v1.abstract'
 ---
 **Citations:**
 Kikumoto, A., & Mayr, U. (2018). Decoding hierarchical control of sequential behavior in oscillatory EEG activity. eLife, 7. <https://doi.org/10.7554/eLife.38550>
