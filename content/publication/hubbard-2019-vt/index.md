@@ -8,6 +8,9 @@ abstract: "Models of action control assume that attentional control settings reg
 featured: false
 publication: "*Scientific Report*"
 tags: [""]
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Custom Link", url = "http://example.org"}]
 ---
 
 **Citations:**
