@@ -9,4 +9,5 @@ featured: false
 publication: "*Elife*"
 tags: [""]
 ---
-
+**Citations:**
+Kikumoto, A., & Mayr, U. (2018). Decoding hierarchical control of sequential behavior in oscillatory EEG activity. eLife, 7. <https://doi.org/10.7554/eLife.38550>
