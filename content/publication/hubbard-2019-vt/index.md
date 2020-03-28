@@ -7,17 +7,18 @@ publication_types: ["2"]
 abstract: "Models of action control assume that attentional control settings regulate the processing of lower-level stimulus/response representations. Yet, little is known about how exactly control and sensory/response representations relate to each other to produce goal-directed behavior. Addressing this question requires time-resolved information about the strength of the different, potentially overlapping representations, on a trial-by-trial basis. Using a cued task-switching paradigm, we show that information about relevant representations can be extracted through decoding analyses from the scalp electrophysiological signal (EEG) with high temporal resolution. Peaks in representational strength-indexed through decoding accuracy-proceeded from superficial task cues, to stimulus locations, to features/responses. In addition, attentional-set representations were prominent throughout almost the entire processing cascade. Trial-by-trial analyses provided detailed information about when and to what degree different representations predict performance, with attentional settings emerging as a strong and consistent predictor of within-individual and across-individual variability in performance. Also, the strength of attentional sets was related to target representations early in the post-stimulus period and to feature/response representations at a later period, suggesting control of successive, lower-level representations in a concurrent manner. These results demonstrate a powerful approach towards uncovering different stages of information processing and their relative importance for performance."
 featured: false
 publication: "*Scientific Report*"
+tags: [""]
+---
 
-# Links (optional).
+url_custom = [{name = "Custom Link 1", url = "http://example.org"},
+              {name = "Custom Link 2", url = "http://example.org"}]
+              
+              # Links (optional).
 # url_pdf = "https://www.nature.com/articles/s41598-019-45333-6"
 # url_preprint = "https://www.biorxiv.org/content/10.1101/219741v3"
 # url_code = ""
 # url_dataset = ""
-
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "PDF", url = "https://www.nature.com/articles/s41598-019-45333-6"}]
-
-tags: [""]
----
+# url_custom = [{name = "PDF", url = "https://www.nature.com/articles/s41598-019-45333-6"}]
 
