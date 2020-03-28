@@ -8,7 +8,7 @@ abstract: "Models of action control assume that attentional control settings reg
 featured: false
 publication: "*Scientific Report*"
 tags: [""]
-links: [name = "PDF", url = "https://www.nature.com/articles/s41598-019-45333-6"]
+links: {[name = "PDF", url = "https://www.nature.com/articles/s41598-019-45333-6"]}
 ---
 
 **Citations:**
