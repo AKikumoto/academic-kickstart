@@ -10,4 +10,4 @@ publication: "*Journal of Cognitive Neuroscience*"
 tags: [""]
 ---
 **Citations:**
-Kikumoto, A., Hubbard, J. & Mayr, U. Dynamics of task-set carry-over: evidence from eye-movement analyses. Psychon Bull Rev 23, 899–906 (2016). <https://doi.org/10.3758/s13423-015-0944-y>
+Kikumoto, A., & Mayr, U. (2017). The Nature of Task Set Representations in Working Memory. Journal of Cognitive Neuroscience, 29(11), 1950–1961.<https://doi.org/10.1162/jocn_a_01173>
