@@ -10,15 +10,6 @@ publication: "*Scientific Report*"
 tags: [""]
 ---
 
-url_custom = [{name = "Custom Link 1", url = "http://example.org"},
-              {name = "Custom Link 2", url = "http://example.org"}]
-              
-              # Links (optional).
-# url_pdf = "https://www.nature.com/articles/s41598-019-45333-6"
-# url_preprint = "https://www.biorxiv.org/content/10.1101/219741v3"
-# url_code = ""
-# url_dataset = ""
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "PDF", url = "https://www.nature.com/articles/s41598-019-45333-6"}]
+Citations:
+Hubbard, J., Kikumoto, A., & Mayr, U. (2019). EEG Decoding Reveals the Strength and Temporal Dynamics of Goal-Relevant Representations. Scientific Reports, 9(1), 9051.
 
