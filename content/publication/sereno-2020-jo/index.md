@@ -8,6 +8,10 @@ abstract: "Humans have a unique ability to perceive shape in different ways. Alt
 featured: false
 publication: "*Psychological Science*"
 tags: [""]
+links:
+  - icon_pack: fab
+    name: PDF
+    url: 'http://journals.sagepub.com/doi/10.1177/0956797620901749'
 ---
 **Citations:**
 Sereno, M. E., Robles, K. E., Kikumoto, A., & Bies, A. J. (2020). The Effects of Three-Dimensional Context on Shape Perception. Psychological Science, 956797620901749. <http://journals.sagepub.com/doi/10.1177/0956797620901749>
