@@ -8,6 +8,10 @@ abstract: "It is almost a truism that language aids serial-order control through
 featured: false
 publication: "*Journal of Experimental Psychology: Learnning, Mememory, and Cognition*"
 tags: [""]
+links:
+  - icon_pack: fab
+    name: PDF
+    url: 'https://doi.org/10.1037/a0035221'
 ---
 **Citations:**
 Mayr, U., Kleffner-Canucci, K., Kikumoto, A., & Redford, M. A. (2014). Control of task sequences: What is the role of language? Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(2), 376–384. <https://doi.org/10.1037/a0035221>
