@@ -6,7 +6,9 @@ authors: ["U Mayr", "K Kleffner-Canucci", "A Kikumoto", " others"]
 publication_types: ["2"]
 abstract: "It is almost a truism that language aids serial-order control through self-cuing of upcoming sequential elements. We measured speech onset latencies as subjects performed hierarchically organized task sequences while ``thinking aloud'' each task label. Surprisingly …"
 featured: false
-publication: "*Journal of*"
-tags: ["MyPapers"]
+publication: "*Journal of Experimental Psychology: Learning *"
+tags: [""]
 ---
+**Citations:**
+Mayr, U., Kleffner-Canucci, K., Kikumoto, A., & Redford, M. A. (2014). Control of task sequences: What is the role of language? Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(2), 376–384. <https://doi.org/10.1037/a0035221>
 
