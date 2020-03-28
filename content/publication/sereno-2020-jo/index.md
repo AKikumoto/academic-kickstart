@@ -10,4 +10,4 @@ publication: "*Psychological Science*"
 tags: [""]
 ---
 **Citations:**
-Sereno, M. E., Robles, K. E., Kikumoto, A., & Bies, A. J. (2020). The Effects of Three-Dimensional Context on Shape Perception. Psychological Science, 956797620901749.<http://journals.sagepub.com/doi/10.1177/0956797620901749>
+Sereno, M. E., Robles, K. E., Kikumoto, A., & Bies, A. J. (2020). The Effects of Three-Dimensional Context on Shape Perception. Psychological Science, 956797620901749. <http://journals.sagepub.com/doi/10.1177/0956797620901749>
