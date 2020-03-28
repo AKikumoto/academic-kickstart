@@ -11,5 +11,6 @@ tags: [""]
 ---
 
 **Citations:**
-Hubbard, J., Kikumoto, A., & Mayr, U. (2019). EEG Decoding Reveals the Strength and Temporal Dynamics of Goal-Relevant Representations. Scientific Reports, 9(1), 9051.https://doi.org/10.1038/s41598-019-45333-6
+
+Hubbard, J., Kikumoto, A., & Mayr, U. (2019). EEG Decoding Reveals the Strength and Temporal Dynamics of Goal-Relevant Representations. Scientific Reports, 9(1), 9051. <https://doi.org/10.1038/s41598-019-45333-6>
 
