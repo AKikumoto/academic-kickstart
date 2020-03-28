@@ -8,7 +8,11 @@ abstract: "Abstract People can use abstract rules to flexibly configure and sele
 featured: false
 publication: "*bioRxiv*"
 tags: [""]
+links:
+  - icon_pack: fab
+    name: PREPRINT
+    url: 'https://www.biorxiv.org/content/10.1101/835652v1'
 ---
 **Citations:**
-Kikumoto, A., & Mayr, U. (2019). Balancing model-based and memory-free action selection under competitive pressure. eLife, 8. <https://doi.org/10.7554/eLife.48810>
+Kikumoto, A., & Mayr, U. (2019). Conjunctive Representations that Integrate Stimuli, Responses, and Rules are Critical for Action Selection. In bioRxiv (p. 835652). https://doi.org/10.1101/835652
 
