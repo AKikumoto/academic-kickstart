@@ -11,13 +11,16 @@ tags: [""]
 links:
   - icon_pack: fab
     name: PDF
-    url: 'https://doi.org/10.7554/eLife.38550'
+    url: 'https://elifesciences.org/articles/48810'
   - icon_pack: fab
     name: PREPRINT
-    url: 'https://www.biorxiv.org/content/10.1101/344135v1.abstract'
+    url: 'https://www.biorxiv.org/content/10.1101/662700v1'
   - icon_pack: fab
     name: CODE & DATA
-    url: 'https://osf.io/6hmrz/'
+    url: 'https://osf.io/j6beq/'
+  - icon_pack: fab
+    name: DIGESTS
+    url: 'https://elifesciences.org/digests/48810/expect-the-unexpected'
 ---
 **Citations:**
-Kikumoto, A., & Mayr, U. (2018). Decoding hierarchical control of sequential behavior in oscillatory EEG activity. eLife, 7. <https://doi.org/10.7554/eLife.38550>
+Kikumoto A, Mayr U. Balancing model-based and memory-free action selection under competitive pressure. Elife. 2019;8:e48810. Published 2019 Oct 2. doi:10.7554/eLife.48810
