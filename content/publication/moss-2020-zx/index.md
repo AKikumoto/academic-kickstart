@@ -8,6 +8,10 @@ abstract: "Theoretical considerations and results from individual differences st
 featured: false
 publication: "*Journal of Experimental Psychology: Learnning, Mememory, and Cognition*"
 tags: [""]
+links:
+  - icon_pack: fab
+    name: PDF
+    url: 'https://doi.org/10.1037/xlm0000801'
 ---
 
 **Citations:**
