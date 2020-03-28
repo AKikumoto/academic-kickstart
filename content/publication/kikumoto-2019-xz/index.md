@@ -8,5 +8,18 @@ abstract: "In competitive situations, winning depends on selecting actions that 
 featured: false
 publication: "*Elife*"
 tags: [""]
+links:
+  - icon_pack: fab
+    name: PDF
+    url: 'https://elifesciences.org/articles/48810a'
+  - icon_pack: fab
+    name: PREPRINT
+    url: 'https://www.biorxiv.org/content/10.1101/662700v1'
+  - icon_pack: fab
+    name: CODE & DATA
+    url: 'https://osf.io/j6beq/'
+  - icon_pack: fab
+    name: DIGESTS
+    url: 'https://elifesciences.org/articles/48810#digest'
 ---
 
