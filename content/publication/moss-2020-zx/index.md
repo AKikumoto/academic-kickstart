@@ -10,3 +10,5 @@ publication: "*Journal of Experimental Psychology: Learnning, Mememory, and Cogn
 tags: [""]
 ---
 
+**Citations:**
+Moss, M. E., Kikumoto, A., & Mayr, U. (2020). Does conflict resolution rely on working memory? Journal of Experimental Psychology: Learning, Memory, and Cognition. Advance online publication. <https://doi.org/10.1037/xlm0000801>
