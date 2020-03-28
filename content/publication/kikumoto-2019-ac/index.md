@@ -9,4 +9,6 @@ featured: false
 publication: "*bioRxiv*"
 tags: [""]
 ---
+**Citations:**
+Kikumoto, A., & Mayr, U. (2019). Balancing model-based and memory-free action selection under competitive pressure. eLife, 8. <https://doi.org/10.7554/eLife.48810>
 
