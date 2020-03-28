@@ -69,5 +69,8 @@ user_groups:
 - Researchers
 ---
 
-Under construction
+I am interested in studying neural mechanisms that support cognitive control and working memory for flexible behavior. I use a range of methods including, EEG, eye-tracking, fMRI, and computational modeling.
+
+I am currently a postdoctoral research associate at Brown University, where I work with David Badre. I completed my Ph.D at the University of Oregon with Ulrich Mayr. During my Ph.D program, I visited the Max Planck Institute of Human Development in Berlin to join the Cognitive to Neuronal Dynamic of Memory Across Lifespan team as a visiting pre-doctoral scholar.
+
 準備中
