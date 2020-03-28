@@ -8,6 +8,10 @@ abstract: "Trial-to-trial carry-over of task sets (i.e., task-set inertia) is of
 featured: false
 publication: "*Psychonomic Bulletin & Review*"
 tags: [""]
+links:
+  - icon_pack: fab
+    name: PDF
+    url: 'https://link.springer.com/article/10.3758%2Fs13423-015-0944-y'
 ---
 **Citations:**
 Kikumoto, A., Hubbard, J. & Mayr, U. Dynamics of task-set carry-over: evidence from eye-movement analyses. Psychon Bull Rev 23, 899–906 (2016). <https://doi.org/10.3758/s13423-015-0944-y>
