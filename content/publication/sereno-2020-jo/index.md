@@ -12,6 +12,16 @@ links:
   - icon_pack: fab
     name: PDF
     url: 'http://journals.sagepub.com/doi/10.1177/0956797620901749'
+    
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1 
+  focal_point: "Center"
+  preview_only: true
 ---
 **Citations:**
 Sereno, M. E., Robles, K. E., Kikumoto, A., & Bies, A. J. (2020). The Effects of Three-Dimensional Context on Shape Perception. Psychological Science, 956797620901749. <http://journals.sagepub.com/doi/10.1177/0956797620901749>
