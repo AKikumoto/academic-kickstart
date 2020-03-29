@@ -28,7 +28,6 @@ image:
   placement: 1
   focal_point: "Center"
   preview_only: true
-  alt_text: An optional description of the image for screen readers.
 ---
 **Citations:**
 Kikumoto A, Mayr U. Balancing model-based and memory-free action selection under competitive pressure. Elife. 2019;8:e48810. Published 2019 Oct 2. doi:10.7554/eLife.48810
