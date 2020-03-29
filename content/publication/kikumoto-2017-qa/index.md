@@ -12,6 +12,17 @@ links:
   - icon_pack: fab
     name: PDF
     url: 'https://doi.org/10.1162/jocn_a_01173'
+    
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1 
+  focal_point: "Center"
+  preview_only: true
+  alt_text: An optional description of the image for screen readers.
 ---
 **Citations:**
 Kikumoto, A., & Mayr, U. (2017). The Nature of Task Set Representations in Working Memory. Journal of Cognitive Neuroscience, 29(11), 1950–1961.<https://doi.org/10.1162/jocn_a_01173>
