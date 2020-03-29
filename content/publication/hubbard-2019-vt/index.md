@@ -1,6 +1,7 @@
 ---
 title: "EEG Decoding Reveals the Strength and Temporal Dynamics of Goal-Relevant Representations"
 date: 2019-06-01
+publication: "*Scientific Report*"
 publishDate: 2020-03-27T18:35:40.228604Z
 authors: ["Jason Hubbard", "Atsushi Kikumoto", "Ulrich Mayr"]
 publication_types: ["2"]
