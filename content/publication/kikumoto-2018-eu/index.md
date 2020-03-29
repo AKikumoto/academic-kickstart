@@ -25,9 +25,9 @@ links:
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  placement: 2 
-  focal_point: "Smart"
-  preview_only: false
+  placement: 1
+  focal_point: "Center"
+  preview_only: true
   alt_text: An optional description of the image for screen readers.
 ---
 **Citations:**
