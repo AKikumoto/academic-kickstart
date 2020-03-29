@@ -22,7 +22,6 @@ image:
   placement: 1 
   focal_point: "Center"
   preview_only: true
-  alt_text: An optional description of the image for screen readers.
 ---
 **Citations:**
 Kikumoto, A., & Mayr, U. (2017). The Nature of Task Set Representations in Working Memory. Journal of Cognitive Neuroscience, 29(11), 1950–1961.<https://doi.org/10.1162/jocn_a_01173>
