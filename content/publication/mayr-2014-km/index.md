@@ -10,7 +10,7 @@ publication: "*Journal of Experimental Psychology: Learnning, Mememory, and Cogn
 tags: [""]
 links:
   - icon_pack: fab
-    name: PDF
+    name: Journal of Experimental Psychology: Learnning, Mememory, and Cognition
     url: 'https://doi.org/10.1037/a0035221'
     
 # Featured image
