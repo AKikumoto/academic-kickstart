@@ -10,7 +10,7 @@ publication: "*Journal of Experimental Psychology: Learnning, Mememory, and Cogn
 tags: [""]
 links:
   - icon_pack: fab
-    name: Journal of Experimental Psychology: Learnning, Mememory, and Cognition
+    name: JEP:LMC
     url: 'https://doi.org/10.1037/a0035221'
     
 # Featured image
@@ -21,8 +21,7 @@ links:
 image:
   placement: 1 
   focal_point: "Smart"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
+  preview_only: true
 ---
 **Citations:**
 Mayr, U., Kleffner-Canucci, K., Kikumoto, A., & Redford, M. A. (2014). Control of task sequences: What is the role of language? Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(2), 376–384. <https://doi.org/10.1037/a0035221>
