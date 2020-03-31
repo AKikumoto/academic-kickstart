@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-* denotes that authors contributed equally to the work
+"*" denotes that authors contributed equally to the work
