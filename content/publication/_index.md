@@ -1,4 +1,4 @@
-test
+* denotes that authors contributed equally to the work
 
 ---
 title: Publications
