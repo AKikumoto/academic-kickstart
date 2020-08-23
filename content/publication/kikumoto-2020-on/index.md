@@ -19,6 +19,6 @@ links:
     name: CODE & DATA
     url: 'https://osf.io/24uwd/'
 
-tags: ["MyPapers"]
+tags: [""]
 ---
 
