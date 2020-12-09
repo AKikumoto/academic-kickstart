@@ -12,6 +12,10 @@ links:
   - icon_pack: fab
     name: PREPRINT
     url: 'https://www.biorxiv.org/content/10.1101/2020.04.30.070227v1'
-tags: ["MyPapers;P8_Rule_stop"]
+    
+  - icon_pack: fab
+    name: CODE & DATA
+    url: 'https://osf.io/fcg8b/'
+tags: [""]
 ---
 
