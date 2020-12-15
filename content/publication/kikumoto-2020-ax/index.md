@@ -1,5 +1,5 @@
 ---
-title: "The Role of Conjunctive Representations in Controlling (Stopping) Actions"
+title: "The Role of Conjunctive Representations in Regulating Actions"
 date: 2020-05-01
 publishDate: 2020-05-02T16:46:23.822051Z
 authors: ["Atsushi Kikumoto", "Ulrich Mayr"]
@@ -11,7 +11,7 @@ tags: [""]
 links:
   - icon_pack: fab
     name: PREPRINT
-    url: 'https://www.biorxiv.org/content/10.1101/2020.04.30.070227v1'
+    url: 'https://www.biorxiv.org/content/10.1101/2020.04.30.070227v2'
     
   - icon_pack: fab
     name: CODE & DATA
