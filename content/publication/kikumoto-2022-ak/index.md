@@ -26,5 +26,13 @@ featured: false
 publication: '*Psychol. Sci.*'
 tags:
 - '"EEG; conjunctive representations; open data; response inhibition;z_MyPapers"'
+tags: [""]
+links:
+  - icon_pack: fab
+    name: PDF
+    url: 'https://journals.sagepub.com/doi/abs/10.1177/09567976211034505'
+  - icon_pack: fab
+    name: PREPRINT
+    url: 'https://www.biorxiv.org/content/10.1101/2020.04.30.070227v2'
 ---
 
