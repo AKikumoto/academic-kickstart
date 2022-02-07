@@ -22,7 +22,8 @@ abstract: "Cognitive control allows us to think and behave flexibly based on our
   \ conclude by highlighting open questions and crucial directions for future research."
 featured: false
 publication: '*Current Opinion in Behavioral Sciences*'
-tags:
-- '"z_MyPapers;Lab6_Badre(Brown);T1_CognitiveControl;z_Papers(WIP)/Pa10_Conj_Consolidation"'
+links:
+  - icon_pack: fab
+    name: PDF
+    url: 'https://www.sciencedirect.com/science/article/pii/S2352154620301042'
 ---
-
