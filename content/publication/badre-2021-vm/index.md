@@ -27,3 +27,5 @@ links:
     name: PDF
     url: 'https://www.sciencedirect.com/science/article/pii/S2352154620301042'
 ---
+**Citations:**
+Badre, D., Bhandari, A., Keglovits, H., & Kikumoto, A. (2021). The dimensionality of neural representations for control. Current Opinion in Behavioral Sciences, 38, 20–28.<https://doi.org/10.1016/j.cobeha.2020.07.002>
