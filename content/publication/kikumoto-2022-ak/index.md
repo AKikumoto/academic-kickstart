@@ -36,3 +36,6 @@ links:
     url: 'https://www.biorxiv.org/content/10.1101/2020.04.30.070227v2'
 ---
 
+**Citations:**
+Kikumoto, A., Sameshima, T., & Mayr, U. (2022). The Role of Conjunctive Representations in Stopping Actions. Psychological Science, 9567976211034505.<https://doi.org/10.1177/09567976211034505>
+
