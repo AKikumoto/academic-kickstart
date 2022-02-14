@@ -1,5 +1,5 @@
 ---
-title: "Dynamics of task-set carry-over: evidence from eye-movement analyses"
+title: "Dynamics of Task-set Carry-over: Evidence from Eye-movement Analyses"
 date: 2016-06-01
 publishDate: 2020-03-27T18:35:40.232216Z
 authors: ["Atsushi Kikumoto", "Jason Hubbard", "Ulrich Mayr"]
