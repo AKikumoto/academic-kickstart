@@ -1,5 +1,5 @@
 ---
-title: "Balancing model-based and memory-free action selection under competitive pressure"
+title: "Balancing Model-based and Memory-free Action Selection under Competitive Pressure"
 date: 2019-10-01
 publishDate: 2020-03-27T18:35:40.227145Z
 authors: ["Atsushi Kikumoto", "Ulrich Mayr"]
