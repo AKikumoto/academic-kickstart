@@ -1,5 +1,5 @@
 ---
-title: "Control of task sequences: What is the role of language?"
+title: "Control of Task Sequences: What is the Role of Language?"
 date: 2014-01-01
 publishDate: 2020-03-27T19:34:42.242324Z
 authors: ["U Mayr", "K Kleffner-Canucci", "A Kikumoto", " others"]
