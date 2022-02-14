@@ -1,5 +1,5 @@
 ---
-title: "Does conflict resolution rely on working memory?"
+title: "Does Conflict Resolution Rely on Working Memory?"
 date: 2020-01-01
 publishDate: 2020-03-27T18:35:40.226178Z
 authors: ["Melissa E Moss", "Atsushi Kikumoto", "Ulrich Mayr"]
