@@ -1,5 +1,5 @@
 ---
-title: "Decoding hierarchical control of sequential behavior in oscillatory EEG activity"
+title: "Decoding Hierarchical Control of Sequential Behavior in Oscillatory EEG Activity"
 date: 2018-11-01
 publishDate: 2020-03-27T18:35:40.230244Z
 authors: ["Atsushi Kikumoto", "Ulrich Mayr"]
