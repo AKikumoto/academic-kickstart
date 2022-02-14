@@ -1,5 +1,5 @@
 ---
-title: "The role of conjunctive representations in stopping actions"
+title: "The Role of Conjunctive Representations in Stopping Actions"
 date: 2022-02-02
 publishDate: 2022-02-07T05:03:56.120955Z
 authors: ["Atsushi Kikumoto", "Tesufuaishin Sameshima", "Ulrich Mayr"]
