@@ -1,5 +1,5 @@
 ---
-title: "The dimensionality of neural representations for control"
+title: "The Dimensionality of Neural Representations for Control"
 date: 2021-04-01
 publishDate: 2022-02-07T05:03:56.171346Z
 authors: ["David Badre", "Apoorva Bhandari", "Haley Keglovits", "Atsushi Kikumoto"]
