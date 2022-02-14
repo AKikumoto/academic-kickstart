@@ -1,5 +1,5 @@
 ---
-title: "The Role of Conjunctive Representations in Stopping Actions"
+title: "The role of conjunctive representations in stopping actions"
 date: 2022-02-02
 publishDate: 2022-02-07T05:03:56.120955Z
 authors: ["Atsushi Kikumoto", "Tesufuaishin Sameshima", "Ulrich Mayr"]
@@ -18,7 +18,7 @@ abstract: "Action selection appears to rely on conjunctive representations that 
   are key to successful action execution and therefore need to be suppressed when
   an intended action is no longer appropriate."
 featured: false
-publication: "*Psychol. Sci.*"
+publication: "*Psychological Science"
 tags: [""]
 links:
   - icon_pack: fab
