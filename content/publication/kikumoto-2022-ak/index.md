@@ -18,7 +18,7 @@ abstract: "Action selection appears to rely on conjunctive representations that 
   are key to successful action execution and therefore need to be suppressed when
   an intended action is no longer appropriate."
 featured: false
-publication: "*Psychological Science"
+publication: "Psychological Science"
 tags: [""]
 links:
   - icon_pack: fab
