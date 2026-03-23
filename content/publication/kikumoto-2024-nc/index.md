@@ -11,7 +11,7 @@ tags: [""]
 links:
   - icon_pack: fab
     name: PDF
-    url: 'https://www.nature.com/articles/s41467-024-45073-y'
+    url: 'https://www.nature.com/articles/s41467-024-52777-6'
 ---
 
 **Citations:**
