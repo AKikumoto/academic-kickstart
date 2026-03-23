@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral research associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Cognitive, Linguistic, & Psychological Science
-  url: "https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home"
+- name: Department of Psychology
+  url: "https://psyc.umd.edu/"
 
-- name: Brown University
-  url: "https://www.brown.edu/"
+- name: University of Maryland, College Park
+  url: "https://www.umd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: under construction.
+bio: Assistant Professor at the University of Maryland, College Park.
 
 interests:
 - Cognitive Neuroscience
@@ -67,9 +67,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Under construction
+I am interested in studying neural mechanisms that support cognitive control and working memory for flexible behavior. I use a range of methods including EEG, eye-tracking, fMRI, simultaneous EEG-fMRI, and computational modeling.
 
-準備中
+I am an Assistant Professor in the Department of Psychology at the University of Maryland, College Park. I completed my postdoctoral training at Brown University (PI: [David Badre](https://sites.brown.edu/badrelab/)) and the RIKEN Center for Brain Science (PI: Kazuhisa Shibata). I completed my Ph.D. at the University of Oregon with [Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/). During my Ph.D. program, I visited the Max Planck Institute of Human Development in Berlin.
