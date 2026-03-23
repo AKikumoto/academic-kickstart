@@ -17,8 +17,11 @@ organizations:
 - name: Department of Psychology
   url: "https://psyc.umd.edu/"
 
-- name: University of Maryland, College Park
+- name: University of Maryland,
   url: "https://www.umd.edu/"
+
+- name: College Park
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant Professor at the University of Maryland, College Park.
