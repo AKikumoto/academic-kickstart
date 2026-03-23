@@ -1,0 +1,12 @@
+---
+title: "A Transient High-dimensional Geometry Affords Stable Conjunctive Subspaces for Efficient Action Selection"
+date: 2023-06-01
+publishDate: 2023-06-12T17:31:16.918682Z
+authors: ["Atsushi Kikumoto", "Apoorva Bhandari", "Kazuhisa Shibata", "David Badre"]
+publication_types: ["3"]
+abstract: "Flexible action selection requires cognitive control mechanisms capable of mapping the same inputs to diverse output actions depending on goals and contexts. How the brain encodes information to enable this capacity remains one of the longstanding and fundamental problems in cognitive neuroscience. From a neural state-space perspective, solving this problem requires a control representation that can disambiguate similar input neural states, making task-critical dimensions separable depending on the context. Moreover, for action selection to be robust and time-invariant, control representations must be stable in time, thereby enabling efficient readout by downstream processing units. Thus, an ideal control representation should leverage geometry and dynamics that maximize the separability and stability of neural trajectories for task computations. Here, using novel EEG decoding methods, we investigated how the geometry and dynamics of control representations constrain flexible action selection in the human brain. Specifically, we tested the hypothesis that encoding a temporally stable conjunctive subspace that integrates stimulus, response, and context (i.e., rule) information in a high-dimensional geometry achieves the separability and stability needed for context-dependent action selection. Human participants performed a task that requires context-dependent action selection based on pre-instructed rules. Participants were cued to respond immediately at varying intervals following stimulus presentation, which forced responses at different states in neural trajectories. We discovered that in the moments before successful responses, there was a transient expansion of representational dimensionality that separated conjunctive subspaces. Further, we found that the dynamics stabilized in the same time window, and that the timing of entry into this stable and high-dimensional state predicted the quality of response selection on individual trials. These results establish the neural geometry and dynamics the human brain needs for flexible control over behavior. ### Competing Interest Statement The authors have declared no competing interest."
+featured: false
+publication: "*bioRxiv*"
+tags: ["z_MyPapers"]
+---
+
