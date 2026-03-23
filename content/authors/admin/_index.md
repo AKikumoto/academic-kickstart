@@ -21,7 +21,7 @@ organizations:
   url: "https://www.umd.edu/"
 
 - name: College Park
-  url: ""
+  url: "https://www.umd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant Professor at the University of Maryland, College Park.
@@ -72,6 +72,6 @@ user_groups:
 - Researchers
 ---
 
-I am interested in studying neural mechanisms that support cognitive control and working memory for flexible behavior. I use a range of methods including EEG, eye-tracking, fMRI, simultaneous EEG-fMRI, and computational modeling.
+I am interested in studying neural and computational mechanisms that support cognitive control and working memory for flexible behavior. I use a range of methods including EEG, EEG-TMS, TUS, eye-tracking, fMRI, simultaneous EEG-fMRI, and computational modeling.
 
 I am an Assistant Professor in the Department of Psychology at the University of Maryland, College Park. I completed my postdoctoral training at the Department of Cognitive and Psychological Sciences, Brown University (PI: [David Badre](https://sites.brown.edu/badrelab/)) and the RIKEN Center for Brain Science (PI: [Kazuhisa Shibata](https://shibatalab.riken.jp/en)). I completed my Ph.D. at the University of Oregon with [Ulrich Mayr](https://blogs.uoregon.edu/cognitivedynamics/home/). During my Ph.D. program, I visited the Max Planck Institute of Human Development in Berlin.
